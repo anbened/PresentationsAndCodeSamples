@@ -33,14 +33,14 @@ Here in Fabric Garage, you'll find all the tools and knowledge you need to fabri
 
 Below is the list of weekly PDF releases:
 
-- [Week 0: The Starting Line](./000FabricGarage_TheStartingLine.pdf)
-- [Week 1: Common Analytics Scenarios](./001FabricGarage_CommonAnalyticsScenarios.pdf)
-- [Week 2: Deployment Patterns](./002FabricGarage_DeploymentPatterns.pdf)
-- [Week 3: The Persona Picker](./003FabricGarage_ThePersonaPicker.pdf)
-- [Week 4: Copilot Experience](./004FabricGarage_CopilotExperience.pdf)
-- [Week 5: Understanding Capacities](./005FabricGarage_UnderstandingCapacities.pdf)
-- [Week 6: Direct Lake](./006FabricGarage_DirectLake.pdf)
-- [Week 7: Warehouse Lakehouse Dilemma](./007FabricGarage_DWH_LKH.pdf)
+- [Week 0: The Starting Line](./pdf/000FabricGarage_TheStartingLine.pdf)
+- [Week 1: Common Analytics Scenarios](./pdf/001FabricGarage_CommonAnalyticsScenarios.pdf)
+- [Week 2: Deployment Patterns](./pdf/002FabricGarage_DeploymentPatterns.pdf)
+- [Week 3: The Persona Picker](./pdf/003FabricGarage_ThePersonaPicker.pdf)
+- [Week 4: Copilot Experience](./pdf/004FabricGarage_CopilotExperience.pdf)
+- [Week 5: Understanding Capacities](./pdf/005FabricGarage_UnderstandingCapacities.pdf)
+- [Week 6: Direct Lake](./pdf/006FabricGarage_DirectLake.pdf)
+- [Week 7: Warehouse Lakehouse Dilemma](./pdf/007FabricGarage_DWH_LKH.pdf)
 
 ## Contact
 
