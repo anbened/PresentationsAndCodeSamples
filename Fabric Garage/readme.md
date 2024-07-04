@@ -41,6 +41,7 @@ Below is the list of weekly PDF releases:
 - [Week 5: Understanding Capacities](./pdf/005FabricGarage_UnderstandingCapacities.pdf)
 - [Week 6: Direct Lake](./pdf/006FabricGarage_DirectLake.pdf)
 - [Week 7: Warehouse Lakehouse Dilemma](./pdf/007FabricGarage_DWH_LKH.pdf)
+- [Week 8: Data Warehouse Internals](./pdf/008FabricGarage_DataWarehouseInternals.pdf)
 
 ## Contact
 
